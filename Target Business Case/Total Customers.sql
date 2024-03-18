@@ -1,0 +1,1 @@
+SELECT COUNT(Distinct customer_unique_id) FROM `Target_Case_Study.customers`
